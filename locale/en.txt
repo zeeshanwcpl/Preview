@@ -1,0 +1,50 @@
+#: locale=en
+
+## Action
+
+### URL
+PopupWebFrameBehaviour_6E99AD4C_6173_3642_41A9_A5B110B992FE.url = https://www.google.com/
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_705BA7C8_619F_1243_4180_706CC07FD74A.text = Click here to watch Webcast
+HotspotPanoramaOverlayTextImage_73A670AB_6191_0EC5_41D0_8AD3DED24924.text = Click here to watch Webcast
+
+## Media
+
+### Image
+imlevel_7018C76E_6191_125F_41D2_05E4BD078AE1.url = media/panorama_6A139823_6171_3DC6_41C8_73E5DAF5E371_HS_onb0del8_en.webp
+imlevel_73BD1829_6191_1DC5_41C9_0F191CFBDB3D.url = media/panorama_6A13B60F_6171_15DD_41C7_34CF1A9E8173_HS_58c2tccl_en.webp
+
+### Title
+panorama_6A9C12DC_6171_1243_41AB_1DB7270E2950.label = Auditorium01
+panorama_6A136F71_6171_1245_41D5_1B0368BF9AC1.label = Auditorium02
+panorama_6A2C9C99_6171_F6C5_41C7_0CFB41D8E64D.label = Auditorium03
+panorama_6A2C4A48_6171_1242_41D2_42DB42E87581.label = Auditorium04
+panorama_6A139823_6171_3DC6_41C8_73E5DAF5E371.label = Auditorium05
+panorama_6A13B60F_6171_15DD_41C7_34CF1A9E8173.label = Auditorium06
+panorama_6D54BE8C_6173_12C3_41D5_643B3B68D2AF.label = Entrance1
+panorama_6A386EB0_6173_F2C2_41D2_4A536B3B7E92.label = Entrance2
+panorama_6A342B95_6173_12C2_41D7_E6EADDD5A85B.label = Entrance3
+panorama_6A345963_6173_3E45_41B1_F25425B6C33A.label = Entrance4
+panorama_6D33E67D_6170_F242_41B8_271CCA78B1F0.label = Lobby01
+panorama_6A2F75D8_6171_1643_41CF_972A72D173E6.label = Lobby02
+panorama_6A2F74B0_6171_36C3_41D6_E0425466D5C5.label = Lobby03
+panorama_6A287483_6171_16C5_41C2_F25998392623.label = Lobby04
+video_701B6FD2_6177_3247_41AE_20151BDC35A5.label = Video_20260404_161530_981
+
+### Video
+videolevel_7588E1C4_61B1_0E43_41BC_5C3B7035289C.url = media/video_701B6FD2_6177_3247_41AE_20151BDC35A5_en.m3u8
+videolevel_7202C768_6193_1242_41B9_CB5E2B04829A.url = media/video_701B6FD2_6177_3247_41AE_20151BDC35A5_en.mp4
+videolevel_7588E1C4_61B1_0E43_41BC_5C3B7035289C.posterURL = media/video_701B6FD2_6177_3247_41AE_20151BDC35A5_poster_en.jpg
+videolevel_7202C768_6193_1242_41B9_CB5E2B04829A.posterURL = media/video_701B6FD2_6177_3247_41AE_20151BDC35A5_poster_en.jpg
+
+### Video Subtitles
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 1
